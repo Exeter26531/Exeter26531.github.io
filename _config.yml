@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : # "en-US"
+title                    : "Proceedings of the meeting"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "AI Mix team"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Harbin"
   employer         : "Harbin Institute of Technology"
   uri              : # URL

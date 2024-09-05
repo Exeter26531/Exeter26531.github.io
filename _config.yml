@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : # "en-US"
-title                    : "Proceedings of the meeting"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Harbin"
-  employer         : "Harbin Institute of Technology"
+  employer         : "HIT"
   uri              : # URL
   email            : "Exeter26531@163.com"
 
